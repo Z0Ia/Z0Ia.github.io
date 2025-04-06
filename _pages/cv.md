@@ -29,11 +29,6 @@ Reasearch experience
   * Host: Prof. Gabriel-Miro Muntean (IEEE Fellow)
 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Academic Service
 ======
 * Organization Committee Member, APNet 2024/2025 (CCF C Conference)
