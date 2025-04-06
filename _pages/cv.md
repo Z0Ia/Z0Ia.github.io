@@ -11,54 +11,59 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Department of Computer Science and Technology, Tsinghua University, 2023 
+* M.S. in Department of Computer Science and Technology(transferred to Ph.D. track), Tsinghua University, 2020 
+* B.S. in School of Information Engineering, China University of Geosciences (Beijing), 2017
+* B.S. in School of Public Administration(Second Degree), China University of Geosciences (Beijing), 2017
 
-Work experience
+Reasearch experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Research Fellow
+  * Fudan University, Shanghai, China
+  * Sep 2023 – Present
+  * Supervisor: Prof. Yang Xu
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting Scholar
+  * Dublin City University, Dublin, Ireland
+  * Sep 2022 – Aug 2023
+  * Host: Prof. Gabriel-Miro Muntean (IEEE Fellow)
+
 
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Academic Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Organization Committee Member, APNet 2024/2025 (CCF C Conference)
+* Conference Reviewer, ACM Multimedia 2024 (CCF A Conference)
+* Conference Reviewer, ACM Multimedia 2023 (CCF A Conference)
+* External Reviewer, The Web Conference (ACM WWW) 2025 (CCF A Conference)
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+   -->
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Shanghai Super Postdoctoral Fellowship, Fudan University, 2024
+* Outstanding Ph.D. Graduate of Beijing, Tsinghua University, 2023
+* CSC Scholarship for Overseas Study, China Scholarship Council, 2022
+* Outstanding Undergraduate Graduate of Beijing, China University of Geosciences (Beijing), 2017
+* Beijing Municipal Excellent Student Award, China University of Geosciences (Beijing), 2017
