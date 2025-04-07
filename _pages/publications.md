@@ -54,7 +54,7 @@ _ACM SIGCOMM Workshop (2023)_
 
 - Qian Yu; Qing Li; Rui He; Gareth Tyson; Wanxin Shi; Jianhui Lv; Zhenhui Yuan; Peng Zhang; Yulong Lan; Zhicheng Li  
 "BiSR: Bidirectionally Optimized Super-Resolution for Mobile Video Streaming"   
-_International World Wide Web Conference (WWW)_
+_International World Wide Web Conference (WWW) (2023)_
 
 
 - Zixuan Chen; Xuandong Liu; Minglin Li; Yinfan Hu; Hao Mei; Huifeng Xing; Hao Wang; Wanxin Shi; Sen Liu; Yang Xu  
@@ -67,6 +67,6 @@ _Data Compression Conference (DCC) (2023)_
 
 - Guorui Xie; Qing Li; Chupeng Cui; Peican Zhu; Dan Zhao; Wanxin Shi; Zhuyun Qi; Yong Jiang; Xi Xiao  
 "Soter: Deep Learning Enhanced In-Network Attack Detection Based on Programmable Switches"  
-_International Symposium on Reliable Distributed Systems (SRDS)_
+_International Symposium on Reliable Distributed Systems (SRDS) (2022)_
 
 
