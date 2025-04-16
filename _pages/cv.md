@@ -9,7 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+## Academic Services and Others
+
+- Organization Committee Member, APNet 2024/2025 (CCF C)
+- Conference Reviewer, ACM MM 2023/2024, WWW 2025 (CCF A) 
+- Shanghai Super Postdoctoral Fellowship, Fudan University, 2024
+- Outstanding Ph.D. Graduate of Beijing, Tsinghua University, 2023
+- CSC Scholarship for Overseas Study, China Scholarship Council, 2022
+- Outstanding Undergraduate Graduate of Beijing, China University of Geosciences (Beijing), 2017
+- Beijing Outstanding Student Award, China University of Geosciences (Beijing), 2017
+
+
+<!-- Education
 ======
 * Ph.D in Department of Computer Science and Technology, Tsinghua University, 2023 
 * M.S. in Department of Computer Science and Technology(transferred to Ph.D. track), Tsinghua University, 2020 
@@ -35,7 +47,7 @@ Academic Service
 * Conference Reviewer, ACM Multimedia 2024 (CCF A Conference)
 * Conference Reviewer, ACM Multimedia 2023 (CCF A Conference)
 * External Reviewer, The Web Conference (ACM WWW) 2025 (CCF A Conference)
-
+ -->
 
 <!-- Publications
 ======

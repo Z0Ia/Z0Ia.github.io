@@ -6,9 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher at the School of Computer Science, Fudan University, working with Prof. Yang Xu. I received my Ph.D. in Computer Science from Tsinghua University in 2023, advised by Prof. Yong Jiang and Prof. Qing Li, and my B.Eng. from China University of Geosciences (Beijing) in 2017.
 
-My research lies at the intersection of computer networks and multimedia systems, with interests in multimedia super-resolution, network caching, edge computing, video transmission optimization, and software-defined networking. My work has appeared in venues such as IEEE COMST, ACM Multimedia, and The Web Conference (WWW).
+I am currently a postdoctoral researcher at the School of Computer Science, Fudan University, working with Prof. Yang Xu.  
+I received my Ph.D. in Computer Science (2023) from Tsinghua University, advised by Prof. Yong Jiang and collaborated with Prof. Qing Li at Peng Cheng Laboratory. 
+I completed my undergraduate studies at China University of Geosciences (Beijing), earning a bachelor's degree in Computer Science and a second degree in Law in 2017.  
+I was also a visiting researcher at Dublin City University (2022), working with Prof. Gabriel-Miro Muntean (IEEE Fellow).
+
+My research lies at the intersection of **multimedia systems**, **networking**, and **edge-cloud computing**. The related work has been published in venues such as *IEEE COMST*, *ACM MM*, *The Web Conference (WWW)*, *IEEE TMM* and *IWQoS*.
+
+
+<!-- I am currently a postdoctoral researcher at the School of Computer Science, Fudan University, working with Prof. Yang Xu. I received my Ph.D. in Computer Science from Tsinghua University in 2023, advised by Prof. Yong Jiang and Prof. Qing Li, and my B.Eng. from China University of Geosciences (Beijing) in 2017.
+
+My research lies at the intersection of computer networks and multimedia systems, with interests in multimedia super-resolution, network caching, edge computing, video transmission optimization, and software-defined networking. My work has appeared in venues such as IEEE COMST, ACM Multimedia, and The Web Conference (WWW). -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 

@@ -23,9 +23,9 @@ repository               : "z0ia/z0ia.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Wanxin Shi"
+  name             : "石婉欣 (Wanxin Shi)"
   pronouns         : "She/Her" # example: "she/her"  
-  bio              : "I am currently a postdoctoral researcher at the School of Computer Science, Fudan University, working with Prof. Yang Xu. My research lies at the intersection of computer networks and multimedia systems."
+  bio              : "Postdoctoral Researcher, School of Computer Science, Fudan University  "
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
@@ -34,6 +34,7 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?user=YSmWKFMAAAAJ"
+  CV(PDF)   : "./yourcv.pdf"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
