@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Recent Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 redirect_from: 
 #   - /publications/
   - /publications.html
 ---
-## Selected Publications
+<!-- ## Selected Publications -->
 
 - **[A Survey on Intelligent Solutions for Increased Video Delivery Quality in Cloud-Edge-End Networks]**  
   *IEEE Communications Surveys & Tutorials (COMST), 2024*  

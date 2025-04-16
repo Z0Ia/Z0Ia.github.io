@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "CV"
+title: "Academic Services and Others"
+#  "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-
-## Academic Services and Others
+<!-- 
+## Academic Services and Others -->
 
 - Organization Committee Member, APNet 2024/2025 (CCF C)
 - Conference Reviewer, ACM MM 2023/2024, WWW 2025 (CCF A) 
@@ -67,10 +68,10 @@ Academic Service
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Honors and Awards
+<!-- Honors and Awards
 ======
 * Shanghai Super Postdoctoral Fellowship, Fudan University, 2024
 * Outstanding Ph.D. Graduate of Beijing, Tsinghua University, 2023
 * CSC Scholarship for Overseas Study, China Scholarship Council, 2022
 * Outstanding Undergraduate Graduate of Beijing, China University of Geosciences (Beijing), 2017
-* Beijing Municipal Excellent Student Award, China University of Geosciences (Beijing), 2017
+* Beijing Municipal Excellent Student Award, China University of Geosciences (Beijing), 2017 -->
